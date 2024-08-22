@@ -19,30 +19,30 @@ const Footer = () => {
 
         <div className="col">
           <h5>Company</h5>
-          <a href="">Products</a> <br />
-          <a href="">About</a> <br />
-          <a href="">Pricing</a> <br />
-          <a href="">Referral Programme</a> <br />
-          <a href="">Careers</a> <br />
-          <a href="">Press & media</a> <br />
-          <a href="">Zerodha Cares (CSR)</a>
+          <a href="" className="text-muted text-decoration-none">Products</a> <br />
+          <a href="" className="text-muted text-decoration-none">About</a> <br />
+          <a href="" className="text-muted text-decoration-none">Pricing</a> <br />
+          <a href="" className="text-muted text-decoration-none">Referral Programme</a> <br />
+          <a href="" className="text-muted text-decoration-none">Careers</a> <br />
+          <a href="" className="text-muted text-decoration-none">Press & media</a> <br />
+          <a href="" className="text-muted text-decoration-none">Zerodha Cares (CSR)</a>
         </div>
 
         <div className="col">
           <h5>Support</h5>
-          <a href="">Contact</a> <br />
-          <a href="">Support portal</a> <br />
-          <a href="">Z-Connect blog</a> <br />
-          <a href="">List of charges</a> <br />
-          <a href="">Downloads & resources</a> <br />
-          <a href="">Videos</a> <br />
-          <a href="">Market overview</a> <br />
+          <a href="" className="text-muted text-decoration-none">Contact</a> <br />
+          <a href="" className="text-muted text-decoration-none">Support portal</a> <br />
+          <a href="" className="text-muted text-decoration-none">Z-Connect blog</a> <br />
+          <a href="" className="text-muted text-decoration-none">List of charges</a> <br />
+          <a href="" className="text-muted text-decoration-none">Downloads & resources</a> <br />
+          <a href="" className="text-muted text-decoration-none">Videos</a> <br />
+          <a href="" className="text-muted text-decoration-none">Market overview</a> <br />
         </div>
 
         <div className="col">
           <h5>Account</h5>
-          <a href="">Open an account</a> <br />
-          <a href="">Fund transfer</a>
+          <a href="" className="text-muted text-decoration-none">Open an account</a> <br />
+          <a href="" className="text-muted text-decoration-none">Fund transfer</a>
         </div>
       </div>
       <div className="mt-5 text-muted">
