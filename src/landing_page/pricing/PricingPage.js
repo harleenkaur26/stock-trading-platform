@@ -1,12 +1,14 @@
 import React from 'react'
-import Brokerage from './Brokerage'
 import Hero from '../about/Hero'
+import OpenAccount from '../OpenAccount'
+import Brokerage from './Brokerage'
 
 const PricingPage = () => {
   return (
     <>
-      <Brokerage />
       <Hero />
+      <OpenAccount />
+      <Brokerage />
     </>
   )
 }
