@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../about/Hero'
+import Hero from '../pricing/Hero'
 import OpenAccount from '../OpenAccount'
 import Brokerage from './Brokerage'
 
